@@ -1,3 +1,6 @@
+# to stop unlimited drinks from a fountain machine
+
+
 # rfid-single-serve-fountain-McDonald-s
 paper disposable RFID activated from magnetic wand next to register on blue square on disposable soda cup
 won't activate to pour thensize of liquid per.cup if 12 oz code then one shot of 12 oz liquid etc
