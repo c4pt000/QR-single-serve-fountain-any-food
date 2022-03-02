@@ -1,4 +1,5 @@
 # to stop unlimited drinks from a fountain machine
+# maybe a charge on refills 35 cents per cup
 
 
 # rfid-single-serve-fountain-McDonald-s
