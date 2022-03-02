@@ -1,6 +1,6 @@
 # to stop unlimited drinks from a fountain machine
 # maybe a charge on refills 35 cents per cup
-
+# except water which pours free
 
 # rfid-single-serve-fountain-McDonald-s
 paper disposable RFID activated from magnetic wand next to register on blue square on disposable soda cup
