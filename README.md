@@ -1,4 +1,4 @@
-# to stop unlimited drinks from a fountain machine
+# to stop unlimited drinks from any fountain machine
 # maybe a charge on refills 35 cents per cup
 # except water which pours free
 # will only dispense when verified with register like a hotel key rfid disposable or a programmable QR code to show the cup as an active guest to receive soda from payment or repayment for refill
