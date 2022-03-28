@@ -3,10 +3,10 @@
 # to stop unlimited drinks from any fountain machine
 # maybe a charge on refills 35 cents per cup
 # except water which pours free
-# will only dispense when verified with register like a hotel key rfid disposable or a programmable QR code to show the cup as an active guest to receive soda from payment or repayment for refill
-# rfid-single-serve-fountain-McDonald-s
-paper disposable RFID activated from magnetic wand next to register on blue square on disposable soda cup
-won't activate to pour thensize of liquid per.cup if 12 oz code then one shot of 12 oz liquid etc
+# will only dispense when verified with register like an electronic door key usually associated with hotels or debit card payments where a card can use an rfid tap to touch payment BUT using a serialized programmable QR code to show the cup as an active paid purchase for a refill to receive soda from payment or repayment for refill
+# QR-single-serve-fountain-McDonald-s
+paper disposable QR activated from magnetic wand next to register on blue square on disposable soda cup
+won't activate to pour the size of liquid per.cup if 12 oz code then one shot of 12 oz liquid etc
 
 ![s1](https://raw.githubusercontent.com/c4pt000/rfid-single-serve-fountain-McDonald-s/main/IMG_20220227_090055334~2.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/rfid-single-serve-fountain-McDonald-s/main/IMG_20220327_171204273~2.jpg)
