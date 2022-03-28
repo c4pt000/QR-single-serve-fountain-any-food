@@ -1,3 +1,5 @@
+# 2 refills for 1.00 as an addon item to allow 2 extra pours
+
 # to stop unlimited drinks from any fountain machine
 # maybe a charge on refills 35 cents per cup
 # except water which pours free
