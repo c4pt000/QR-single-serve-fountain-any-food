@@ -10,6 +10,8 @@ won't activate to pour the size of liquid per.cup if 12 oz code then one shot of
 
 ![s1](https://raw.githubusercontent.com/c4pt000/rfid-single-serve-fountain-McDonald-s/main/IMG_20220227_090055334~2.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/rfid-single-serve-fountain-McDonald-s/main/IMG_20220327_171204273~2.jpg)
+![s1](https://raw.githubusercontent.com/c4pt000/QR-single-serve-fountain-any-food/main/IMG_20220408_152959485_HDR.jpg)
+
 ![s1](https://raw.githubusercontent.com/c4pt000/QR-single-serve-fountain-any-food/main/Screenshot_20220329-130256-241~2.png)
 # to activate size of liquid to pour hold above selection of drinks in the left lower corner near push for ice or lower right corner near push for ice and 
 ![s1](https://raw.githubusercontent.com/c4pt000/rfid-single-serve-fountain-McDonald-s/main/Screenshot_20220227-091840-957~3.png)
