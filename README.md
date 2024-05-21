@@ -1,3 +1,8 @@
+# UPDATE 05-21-2024
+
+# seems like McDonald's likes my idea
+# https://www.cbsnews.com/news/mcdonalds-free-refills-start-charging-no-self-service-drinks-franchises/
+
 # $$$$$
 
 # as an example 2 refills for 1.00 as an addon item to allow 2 extra pours similar to low-cost items or deals like $1 coffee or $1 menu items
